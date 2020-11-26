@@ -1,8 +1,6 @@
 # Emese Kiss ✨
 
 💻 Junior Web Developer | 🚀 UpLeveled Graduate | 🙋 Womankind Volunteer | 🌎 based in Vienna
-<!--
-**emesekiss/emesekiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi, I'm Emi (she/her) - a junior web developer currently working on my final project: GuideMe(- a mental health guide) at UpLeveled coding bootcamp. 
 
