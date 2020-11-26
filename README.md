@@ -10,7 +10,7 @@ Hi, I'm Emi (she/her) - a junior web developer currently working on my final pro
 
 - 👐 background in social work and human resources
 - 🔭 in continuous learning 
-- 🪨 fun fact: I enjoy rock climbing because I shit my pants but I also have the most fun.
+- 🪨 fun fact: I enjoy rock climbing because I'm scared to death but I also have the most fun.
 
 ## Get in touch
 
