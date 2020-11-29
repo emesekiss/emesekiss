@@ -1,7 +1,7 @@
 # Emese Kiss ✨
 
 
-Hi, I'm Emi (she/her) - a junior web developer currently working on my final project: GuideMe(- a mental health guide) at UpLeveled coding bootcamp. 
+Hi, I'm Emi (she/her) - a junior web developer currently working on my final project: [GuideMe](https://guide-me-final.herokuapp.com/) (- a mental health guide) at UpLeveled coding bootcamp. 
 
 --- **_breaking stereotypes to show that anyone can learn how to code_** ---
 
