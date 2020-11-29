@@ -13,6 +13,6 @@ Hi, I'm Emi (she/her) - a junior web developer currently working on my final pro
 
 ## Get in touch
 
-[Twitter](https://twitter.com/Emese76296705)
-[LinkedIn](https://www.linkedin.com/in/emese-kiss-13849090/)
+- [Twitter](https://twitter.com/Emese76296705) 
+- [LinkedIn](https://www.linkedin.com/in/emese-kiss-13849090/)
 
