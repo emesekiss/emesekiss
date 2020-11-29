@@ -1,6 +1,5 @@
 # Emese Kiss ✨
 
-💻 Junior Web Developer | 🚀 UpLeveled Graduate | 🙋 Womankind Volunteer | 🌎 based in Vienna
 
 Hi, I'm Emi (she/her) - a junior web developer currently working on my final project: GuideMe(- a mental health guide) at UpLeveled coding bootcamp. 
 
